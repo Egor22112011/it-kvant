@@ -28,4 +28,4 @@
 
 <b>Мои работы:<b>
 
-<img scr="https://raw.githubusercontent.com/Egor22112011/it-kvant/b0f0d6ada135d9165921a9f2157a3e5d76f9b710/cthnbabrfn.jpg" width="100" />
+<img src="https://raw.githubusercontent.com/Egor22112011/it-kvant/b0f0d6ada135d9165921a9f2157a3e5d76f9b710/cthnbabrfn.jpg" width="100" />
