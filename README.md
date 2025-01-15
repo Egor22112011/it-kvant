@@ -28,4 +28,4 @@
 
 <b>Мои работы:<b>
 
-certificate (5).pdf
+[certificate (5).pdf](https://github.com/Egor22112011/it-kvant/blob/main/certificate%20(5).pdf)
