@@ -25,3 +25,7 @@
 
 
 <img src="https://sun6-23.userapi.com/s/v1/ig2/4A1qeNbPHpQiDK9bQl86r9XO-BWuiIlFhQu8rkvz0IDLcEuQMWmEc73BPhBQLpx3krmHvQk_PlTDfgUfLtbK9b78.jpg?size=1066x1066&quality=96&crop=487,5,1066,1066&ava=1" width="100" />
+
+<b>Мои работы:<b>
+
+certificate (5).pdf
