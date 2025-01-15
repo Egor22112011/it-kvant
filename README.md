@@ -29,3 +29,5 @@
 <b>Мои работы:<b>
 
 <img src="https://raw.githubusercontent.com/Egor22112011/it-kvant/b0f0d6ada135d9165921a9f2157a3e5d76f9b710/cthnbabrfn.jpg" width="300" />
+
+<img src="https://github.com/Egor22112011/it-kvant/blob/main/сертифи.png?raw=true" width="300" />
