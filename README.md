@@ -19,7 +19,7 @@
 
 <b>npm</b> -  это менеджер пакетов для среды выполнения JavaScript Node.js. 
 
-<img src="[https://avatars.mds.yandex.net/i?id=a738fcc1754ac524a0716514b1f2b17c_l-5383195-images-thumbs&n=13](https://avatars.mds.yandex.net/i?id=29546e8a304e9604f0370a09898f454621767670-10105725-images-thumbs&n=13)" width="100" />
+<img src="https://gitlab.com/uploads/-/system/group/avatar/12328581/npm-logo.png" width="100" />
 
 <b>фреймворк</b> - это набор инструментов, компонентов и методов, которые облегчают разработку программного обеспечения.
 
