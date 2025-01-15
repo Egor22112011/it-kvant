@@ -28,4 +28,4 @@
 
 <b>Мои работы:<b>
 
-[certificate (5).pdf](https://github.com/Egor22112011/it-kvant/blob/main/certificate%20(5).pdf)
+<img src="[certificate (5).pdf](https://github.com/Egor22112011/it-kvant/blob/main/certificate%20(5).pdf)" width="100" />
