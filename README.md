@@ -26,7 +26,7 @@
 
 <img src="https://sun6-23.userapi.com/s/v1/ig2/4A1qeNbPHpQiDK9bQl86r9XO-BWuiIlFhQu8rkvz0IDLcEuQMWmEc73BPhBQLpx3krmHvQk_PlTDfgUfLtbK9b78.jpg?size=1066x1066&quality=96&crop=487,5,1066,1066&ava=1" width="100" />
 
-<b>Мои работы:<b>
+<b>Мои достижения:<b>
 
 <img src="https://raw.githubusercontent.com/Egor22112011/it-kvant/b0f0d6ada135d9165921a9f2157a3e5d76f9b710/cthnbabrfn.jpg" width="300" />
 
