@@ -40,6 +40,6 @@
 
 <b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
 
-<img scr="![2025-01-25_13-56-18](https://github.com/user-attachments/assets/b30261b5-b3d8-4589-a992-2ae5d9b97161)" width="300" />
+<img scr="C:\Users\kvant\Downloads\2025-01-25_13-56-18.png" width="300" />
 
 <b>Угадай число</b> - "http://127.0.0.1:5500/index.html"
