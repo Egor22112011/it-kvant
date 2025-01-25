@@ -32,12 +32,14 @@
 
 <img src="https://raw.githubusercontent.com/Egor22112011/it-kvant/refs/heads/main/cthnbabrfnbnn9ew%20(1).png" width="300" />
 
-<img scr="[https://github.com/Egor22112011/it-kvant/blob/main/2025-01-25_13-24-50.png](https://github.com/Egor22112011/it-kvant/blob/main/2025-01-25_13-24-50.png)" width="300" />
+
 
 
 <b>Мои работы:</b>
 
 
 <b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
+
+<img scr="![2025-01-25_13-56-18](https://github.com/user-attachments/assets/b30261b5-b3d8-4589-a992-2ae5d9b97161)" width="300" />
 
 <b>Угадай число</b> - "http://127.0.0.1:5500/index.html"
