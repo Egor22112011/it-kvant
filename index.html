@@ -3,25 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Игра: Угадай число</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Показать/скрыть пароль</h1>
-    <h1>Пароль</h1>
-    <input type="password" name="" id="password">
-    <input type="checkbox" name="" id="togglePassword">
+    <h1>Угадай число от 1 до 100</h1>
+    <input type="number" id="guess" placeholder="Введите ваше число">
+    <button id="submit">Угадать</button>
+    <div id="result"></div>
+    <script scr="main.js"></script>   
 </body>
-<script>
-    const passwordInput = document.getElementById('password')
-    const toggleButton = document.getElementById('togglePassword')
-    toggleButton.addEventListener('click',function(){
-        if (passwordInput.type === 'password'){
-            passwordInput.type = 'text'
-            toggleButton.textContent = 'Скрыть';
-        }else{
-            passwordInput.type = 'password';
-            toggleButton.textContent = 'Показать'
-        }
-    });
-</script>
 </html>
