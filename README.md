@@ -39,3 +39,4 @@
 
 
 <b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
+<b>Угадай число</b> - "https://github.com/Egor22112011/it-kvant/blob/main/index.html"
