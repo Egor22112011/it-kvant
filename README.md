@@ -32,4 +32,10 @@
 
 <img src="https://github.com/Egor22112011/it-kvant/blob/main/уаыукпл.png?raw=true" width="300" />
 
+<img scr="![2025-01-25_13-24-50](https://github.com/user-attachments/assets/d394bedd-baa3-473b-82a7-cea1ac2a4342)" width="300" />
+
+
+<b>Мои работы:</b>
+
+
 <b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
