@@ -32,7 +32,7 @@
 
 <img src="https://github.com/Egor22112011/it-kvant/blob/main/уаыукпл.png?raw=true" width="300" />
 
-<img scr="C:\Users\kvant\Downloads\2025-01-25_13-24-50.png" width="300" />
+<img scr="![2025-01-25_13-24-50](https://github.com/user-attachments/assets/c8a8ad43-da54-4557-a5ee-0cf9dd76dc66)" width="300" />
 
 
 <b>Мои работы:</b>
