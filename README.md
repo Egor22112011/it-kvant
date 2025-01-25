@@ -40,6 +40,6 @@
 
 <b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
 
-<img scr="![Uploading sert[ery-t;.jpg…]()" width="300" />
+<img scr="https://github.com/Egor22112011/it-kvant/commit/0dd3dc30674721c1cca9e9bc2b05ab577227cb36" width="300" />
 
 <b>Угадай число</b> - "http://127.0.0.1:5500/index.html"
