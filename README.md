@@ -32,4 +32,4 @@
 
 <img src="https://github.com/Egor22112011/it-kvant/blob/main/уаыукпл.png?raw=true" width="300" />
 
-<h1>Сайт пароля</h1> - "https://github.com/Egor22112011/it-kvant/blob/main/index.html"
+<b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
