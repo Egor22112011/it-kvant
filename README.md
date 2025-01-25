@@ -40,6 +40,6 @@
 
 <b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
 
-<img scr="C:\Users\kvant\Downloads\2025-01-25_13-56-18.png" width="300" />
+<img scr="![Uploading sert[ery-t;.jpg…]()" width="300" />
 
 <b>Угадай число</b> - "http://127.0.0.1:5500/index.html"
