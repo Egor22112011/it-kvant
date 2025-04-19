@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Игра: Угадай число</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Викторина</title>
+
+    <link rel="stylescheet" href="style.css">
 </head>
 <body>
-    <h1>Угадай число от 1 до 100</h1>
-    <input type="number" id="guess" placeholder="Введите ваше число">
-    <button id="submit">Угадать</button>
+<div class="container">
+    <h1>Викторина</h1>
+    <div id="answers"></div>
+    <div id="question"></div>
+    <button id="submit">Потвердить</button>
     <div id="result"></div>
-    <script scr="main.js"></script>   
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
