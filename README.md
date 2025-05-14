@@ -38,7 +38,7 @@
 <b>Мои работы:</b>
 
 
-<b>Сайт пароля</b> - "http://127.0.0.1:5500/index.html"
+<b>Умножение</b> - 
     <a href="https://egor22112011.github.io/umn/">умножение</a>
 
 <img scr="https://github.com/Egor22112011/it-kvant/commit/0dd3dc30674721c1cca9e9bc2b05ab577227cb36" width="300" />
