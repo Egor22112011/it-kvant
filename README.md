@@ -46,5 +46,7 @@
 <b>Викторина "Програмирование"</b> - 
      <a href="https://egor22112011.github.io/vic/">викторина</a>
 
+<img scr="https://github.com/Egor22112011/it-kvant/commit/0dd3dc30674721c1cca9e9bc2b05ab577227cb36" width="300" />
+
 <b>Викторина "Космос"</b> - 
     <a href="https://egor22112011.github.io/-/">викторина</a>
